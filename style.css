@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+
+}
+nav{
+    background-color:black;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: bisque;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    ul{
+        text-align: left;
+    }
+}
+main{
+    background-color:blanchedalmond;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:  rgb(140, 97, 142);;
+    padding: 50px;
+}
+footer{
+    background-color:black;
+    margin-bottom: 20px;
+    color: bisque;
+    text-align: center;
+}
+
+.display-flex{
+    display: flex;
+    img{
+        margin-right: 10px;
+    }
+}
